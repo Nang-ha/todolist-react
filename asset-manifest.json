@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nang-ha/todolist-react.git/static/css/main.472241e0.chunk.css",
+    "main.js": "/Nang-ha/todolist-react.git/static/js/main.acd09de9.chunk.js",
+    "main.js.map": "/Nang-ha/todolist-react.git/static/js/main.acd09de9.chunk.js.map",
+    "runtime-main.js": "/Nang-ha/todolist-react.git/static/js/runtime-main.8b106a68.js",
+    "runtime-main.js.map": "/Nang-ha/todolist-react.git/static/js/runtime-main.8b106a68.js.map",
+    "static/js/2.9681319c.chunk.js": "/Nang-ha/todolist-react.git/static/js/2.9681319c.chunk.js",
+    "static/js/2.9681319c.chunk.js.map": "/Nang-ha/todolist-react.git/static/js/2.9681319c.chunk.js.map",
+    "index.html": "/Nang-ha/todolist-react.git/index.html",
+    "static/css/main.472241e0.chunk.css.map": "/Nang-ha/todolist-react.git/static/css/main.472241e0.chunk.css.map",
+    "static/js/2.9681319c.chunk.js.LICENSE.txt": "/Nang-ha/todolist-react.git/static/js/2.9681319c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nang-ha/todolist-react.git/static/media/bg.80dd5058.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b106a68.js",
+    "static/js/2.9681319c.chunk.js",
+    "static/css/main.472241e0.chunk.css",
+    "static/js/main.acd09de9.chunk.js"
+  ]
+}
